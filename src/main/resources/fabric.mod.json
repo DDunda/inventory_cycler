@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "inventory_swapper",
   "version": "${version}",
 
   "name": "Inventory Swapper",
@@ -13,7 +13,7 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/inventory_swapper/icon.png",
 
   "environment": "*",
   "entrypoints": {
